@@ -1,0 +1,2 @@
+# sturdy-invention
+Solana is a blockchain built for mass adoption. It's a high performance network that is utilized for a range of use cases, including finance, NFTs, payments, and gaming. Solana operates as a single global state machine, and is open, interoperable and decentralized. Agave is a fork of the original Solana validator previously maintained by the Solana
